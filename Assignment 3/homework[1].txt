@@ -1,0 +1,22 @@
+1) Copy the following arrays into your code:
+
+let users = ["Bob", "Dylan", "Marley", "Winston", "Abraham", "Charollete"];
+let numbers = [1, 2, 3, 4, 5 ];
+
+2) Write a function that accepts an array and a string as arguments. The function should add the string to the end of the array.
+
+3) Write another function that accepts an array an argument. The function should remove the string from the end of the array. Return the element that was removed.
+
+4) Write a third function that accepts an array as an argument. Loop through all of the elements of the array, once the loop gets to the sixth element in the array (i.e. [5]), return that element. If the array does not have a sixth element, return a string that says: "No sixth element"
+
+5) Pass the users array and any string to the first function, then console log users
+
+6) Pass the numbers array to the second function, set the result to a new variable called "poppedValue"
+
+7) console log numbers and poppedValue
+
+8) Pass the users array to the third function, set the result of the function call to a variable, console log the varaible.
+
+9) Pass the numbers array to the third function, set the result of the function call to a variable, console log the variable.
+
+

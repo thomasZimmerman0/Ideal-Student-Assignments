@@ -1,0 +1,10 @@
+1) Define a function that takes in 5 numbers as parameters (x, y, z, count, max) that contains a while loop, and a local variable called result. The while loop should check if count is less than max. Inside the loop, check if count is an even number. If count is an even number, then set result equal to result + x + y. If count is an odd number, set result to result + z.  Once the loop is finished, return the result
+
+2)call the function 3 times with different values
+
+3)rewrite the function to use an arrow function if you used the function key word, or rewrite it to use the function keyword if you used an arrow function. Also rewrite the fucntion to use a for loop instead of a while loop. 
+
+4) call the new function 3 times with different values
+
+Submit your result to me using whatsapp or email: tzimmerman@iitnj.edu
+

@@ -1,0 +1,11 @@
+In Javascript: 
+
+- Define a function that takes 4 parameters as an argument (the parameters should be num1, num2, and str). Use the function key word to wrtie this function. 
+
+- The function should return a string that in the following format "(value of str) : (num 1 + num2)" i.e. if the function is passed (1, 2, "The sum of num1 and num2"), it should retrun "The sum of num1 and num2 : 3"
+
+-call the function, and console log the result.
+
+-re-write the funciton as an arrow funcition
+
+Send your solution to my WhatsApp
